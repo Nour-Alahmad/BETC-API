@@ -13,7 +13,7 @@ class Header extends Component {
   render() {
     return (
       <>
-       <h1 style={{ fontSize: '12px' }}>“Discover the World” </h1>
+       <h1 style={{ fontSize: '30px' }}>“Discover the World” </h1>
       </>
     );
   }

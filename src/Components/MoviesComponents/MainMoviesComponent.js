@@ -35,17 +35,7 @@ class MainMovies extends React.Component {
       data = "";
     }
 
-    /*
-           title: "London Has Fallen",
-            overview:
-          "In London for the Prime Minister's funeral, Mike Banning discovers a plot to assassinate all the attending world leaders.",
-        average_votes: 6.1,
-        total_votes: 4061,
-        image_url: "/korY0GInEJThWEm23MRmErQ3GqT.jpg",
-        popularity: 51.491,
-        released_on: "2016-03-02",
 
-    */
 
     return (
       <>
@@ -89,9 +79,3 @@ class MainMovies extends React.Component {
 
 export default MainMovies;
 
-/*
-                      <Card.Body>
-                        { <Card.Title>{movie.title}</Card.Title>
-                      <Card.Text>{newDesc}</Card.Text> }
-                      </Card.Body>
-*/
